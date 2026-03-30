@@ -1,17 +1,17 @@
 ---
-title: "Your Inner Hedgehog" 
-date: 2021-04-06
-tags: ["social psychology","inner hedgehog","academia","experimental psychology","invasive thoughts"]
-author: ["Hilda Schreiber-Ziegler", "Moritz-Maria von Igelfeld"]
-description: "This paper describes the inner hedgehog, a psychological condition widespread in academia. Published in the Journal of Socio-Experimental Psychology, 2021." 
-summary: "Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure." 
+title: "Do Delayed Nursing Home Admissions Increase Hospitalisations and Costs?" 
+date: 2026-02-28
+tags: ["Nursing home care", "Hospital care", "Spillovers", "Administrative data", "Instrumental variable"]
+author: ["Marlies Bär", "Pieter Bakx" "Nigel Rice", "Rita Santos", "Luigi Siciliani", "Bram Wouterse"]
+description: "This paper studies the impact of delayed nursing home admissions" 
+summary: "We study the effects of delayed nursing home admissions on urgent hospitalisations and costs in the Netherlands. We exploit plausibly exogenous variation in within-region congestion for nursing home admissions. A one-month delay increases urgent hospitalisation by 2.6 percentage points (15% of the baseline), mostly due to falls and primarily driven by individuals with dementia living alone. Cost savings in nursing home care due to delays are partly offset by increased costs in home care and hospitals. These findings suggest that timely access and improved allocation of scarce nursing home capacity can yield health benefits and reduce costs in other parts of the healthcare sector." 
 cover:
     image: "paper3.png"
-    alt: "Vizualisation of an inner hedgehog"
+    alt: "Impact of Delayed Nursing Home Admissions"
     relative: true
 editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Socio-Experimental Psychology"
+    URL: ""
+    Text: "Working paper"
 
 ---
 
@@ -19,20 +19,19 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper3.pdf)
-+ [Raw data](https://github.com/pmichaillat/michez-rule)
++ [Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6293289)
 
 ---
 
 ##### Abstract
 
-Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure. Mauris tincidunt quam a libero consequat, nec pharetra nunc tristique. Pellentesque eget ipsum ut dui laoreet congue ut nec nulla. Nulla facilisi. Sed consequat, odio ac aliquet tempor, turpis augue auctor mauris, at malesuada sem dolor eget libero. Nullam iaculis malesuada risus, id fringilla quam sagittis ac. Fusce congue vel ex et facilisis. Integer volutpat eros ut urna efficitur, id efficitur sapien pharetra.
+We study the effects of delayed nursing home admissions on urgent hospitalisations and costs in the Netherlands. We exploit plausibly exogenous variation in within-region congestion for nursing home admissions. A one-month delay increases urgent hospitalisation by 2.6 percentage points (15% of the baseline), mostly due to falls and primarily driven by individuals with dementia living alone. Cost savings in nursing home care due to delays are partly offset by increased costs in home care and hospitals. These findings suggest that timely access and improved allocation of scarce nursing home capacity can yield health benefits and reduce costs in other parts of the healthcare sector.
 
 ---
 
 ##### Citation
 
-Schreiber-Ziegler, Hilda, and Moritz-Maria von Igelfeld. 2021. "Your Inner Hedgehog." *Journal of Socio-Experimental Psychology* 131 (2): 1299–1302.
+Bär M, Bakx P, Rice N, Santos R, Siciliani L, Wouterse B. 2026. Do Delayed Nursing Home Admissions Increase Hospitalisations and Costs? https://ssrn.com/abstract=6293289
 
 ```latex
 @article{SZI21,
