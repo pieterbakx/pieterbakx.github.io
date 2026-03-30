@@ -1,6 +1,6 @@
 ---
 title: "Do Delayed Nursing Home Admissions Increase Hospitalisations and Costs?" 
-date: 2026-02-28
+date: "2026-02-28"
 tags: ["Nursing home care", "Hospital care", "Spillovers", "Administrative data", "Instrumental variable"]
 author: ["Marlies Bär", "Pieter Bakx" "Nigel Rice", "Rita Santos", "Luigi Siciliani", "Bram Wouterse"]
 description: "This paper studies the impact of delayed nursing home admissions" 
