@@ -51,7 +51,7 @@ params:
           enabled: true
           title: Dr Pieter Bakx
           subtitle: "I am an associate professor affiliated with the Health Economics group at the Erasmus School for Health Policy and Management, Erasmus University Rotterdam in the Netherlands. I study topics related to the financing and organization of health care, most of my research is on long-term care financing."
-          imageUrl: "picture.jpeg"
+          imageUrl: "picture.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
