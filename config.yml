@@ -18,9 +18,12 @@ menu:
         - name: Working Papers
           url: workingpapers/
           weight: 2
+        - name: Reports
+          url: reports/
+          weight: 3 
         - name: Resume
           url: cvpieterbakx.pdf
-          weight: 3
+          weight: 4
 
 
 params:
