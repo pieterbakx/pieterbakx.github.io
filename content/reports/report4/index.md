@@ -1,6 +1,6 @@
 ---
 title: "Long-Term Care (LTC) Policy Explorer: the Netherlans"
-date: 2025
+date: 2024-06
 #tags: ["compatible pairs","empiric","history of oil","Mediterranean world"]
 description: "LTC Policy Explorer" 
 summary: "Website: Gateway to Global Ageing Data" 

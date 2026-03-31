@@ -1,6 +1,6 @@
 ---
 title: "Inkopers van ouderenzorg: prikkels en gedragseffecten"
-date: 2023
+date: 2023-12-31
 #tags: ["compatible pairs","empiric","history of oil","Mediterranean world"]
 author: ["Marco Varkevisser", "Bram Wouterse", "Erik Schut", "Stéphanie van der Geest", "Pieter Bakx"]
 description: "Rapport voor VWS" 

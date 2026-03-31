@@ -1,6 +1,6 @@
 ---
 title: "Dementie in kaart (EN: Dutch Dementia Care Registry)"
-date: 2021
+date: 2022-01
 author: ["Amsterdam Data Collective", "Erasmus School of Health Policy & Management"]
 #tags: ["compatible pairs","empiric","history of oil","Mediterranean world"]
 description: "Dementie in kaart" 

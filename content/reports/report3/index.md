@@ -1,6 +1,6 @@
 ---
 title: "Review NZa-prognosemodel Wlz-kader"
-date: 2021
+date: 2021-08-18
 #tags: ["compatible pairs","empiric","history of oil","Mediterranean world"]
 author: ["Bram Wouterse", "Pieter Bakx"]
 description: "Rapport voor NZa" 
