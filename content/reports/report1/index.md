@@ -1,6 +1,6 @@
 ---
 title: "Pricing long-term care for older persons"
-date: 2021-08
+date: 2021-08-01
 #tags: ["compatible pairs","empiric","history of oil","Mediterranean world"]
 author: ["Sarah L Barber", "Kees van Gool", "Sarah Wise", "Michael Woods", "Zeynep Or", "Anne Penneau", "Ricarda Milstein", "Naoki Ikegami", "Soonman Kwon", "Pieter Bakx", "Erik Schut", "Bram Wouterse", "Manuel Flores", "Luca Lorenzoni"]
 description: "Report for WHO and OECD" 
