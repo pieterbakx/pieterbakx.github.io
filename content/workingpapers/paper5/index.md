@@ -1,13 +1,13 @@
 ---
-title: "Do Delayed Nursing Home Admissions Increase Hospitalisations and Costs?"
+title: "Health Shocks as Drivers of Persistent Change in Health Behaviors"
 date: 2026-02-28
 #tags: ["compatible pairs","empiric","history of oil","Mediterranean world"]
-author: ["Marlies Bär", "Pieter Bakx", "Nigel Rice", "Rita Santos", "Luigi Siciliani", "Bram Wouterse"]
-description: "This paper examines the impact of delayed nursing home admissions. Submitted." 
-summary: "This paper examines the impact of delayed nursing home admissions on patient outcomes." 
+author: ["Jannis Stöckel", "Bram Wouterse", "Pieter Bakx"]
+description: "In progress" 
+summary: "In progress" 
 cover:
     #image: ""
-    alt: "Delayed Nursing Home Admissions"
+    alt: "Health shocks and behavioral change"
     relative: false
 #editPost:
     #URL: "https://jheor.org"
@@ -19,14 +19,13 @@ cover:
 
 ##### Download
 
-+ [SSRN link](https://ssrn.com/abstract=6293289)
++ [In progress; e-mail for draft](mailto:bakx@eshpm.eur.nl)
 
 ---
 
 ##### Abstract
 
-We study the effects of delayed nursing home admissions on urgent hospitalisations and costs in the Netherlands. We exploit plausibly exogenous variation in within-region congestion for nursing home admissions. A one-month delay increases urgent hospitalisation by 2.6 percentage points (15% of the baseline), mostly due to falls and primarily driven by individuals with dementia living alone. Cost savings in nursing home care due to delays are partly offset by increased costs in home care and hospitals. These findings suggest that timely access and improved allocation of scarce nursing home capacity can yield health benefits and reduce costs in other parts of the healthcare sector. 
-
+Health behaviors are notoriously persistent. We study behavioral change following severe cardiovascular events using linked administrative and survey data for 9,665 patients who experienced a heart attack or stroke, exploiting their exogenous timing. We find large, persistent reductions in smoking and alcohol consumption, near-universal preventive medication uptake and adherence, and forward-looking adjustments to health insurance coverage. These responses persist for at least six years. Health shocks substantially decrease perceptions about one's health and perceived control over life's outcomes. Differences in these beliefs however do not explain behaviors, nor do we find heterogeneous behavioral responses by health risk or education. These results suggest that severe health events drive long-lasting and broad behavior changes independently of measurable belief changes or the ability to process health information.
 
 ---
 <!-- 
@@ -43,7 +42,6 @@ journal = {Work in progress},
 url = {}}
 ```
 
- , Marlies and Bakx, Pieter and Rice, Nigel and Santos, Rita and Siciliani, Luigi and Wouterse, Bram, Do Delayed Nursing Home Admissions Increase Hospitalisations and Costs?. Available at SSRN: 
 
 ---
 
