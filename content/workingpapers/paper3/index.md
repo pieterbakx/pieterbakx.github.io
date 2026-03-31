@@ -20,7 +20,7 @@ cover:
 ##### Download
 
 + [CPB Discussion Paper link](https://www.cpb.nl/en/the-impact-of-co-payments-for-nursing-home-care-on-use-health-and-welfare)
-
++ [VoxEU column](https://cepr.org/voxeu/columns/out-pocket-payments-nursing-home-residents-balancing-financial-protection-incentives)
 ---
 
 ##### Abstract

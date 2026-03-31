@@ -1,4 +1,4 @@
 ---
-title: "Courses"
-description: "Courses on philology by Professor Dr von Igelfeld and esteemed colleagues. For undergraduate and graduate students."
+title: "Reports"
+description: "Reports: commissioned research reports and other output that is not peer-reviewed."
 ---
