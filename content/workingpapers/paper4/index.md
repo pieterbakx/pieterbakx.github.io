@@ -1,13 +1,13 @@
 ---
-title: "Do Delayed Nursing Home Admissions Increase Hospitalisations and Costs?"
-date: 2026-02-28
+title: "Labor market consequences of low-value mental health care"
+date: 2025-03-01
 #tags: ["compatible pairs","empiric","history of oil","Mediterranean world"]
-author: ["Marlies Bär", "Pieter Bakx", "Nigel Rice", "Rita Santos", "Luigi Siciliani", "Bram Wouterse"]
-description: "This paper examines the impact of delayed nursing home admissions. Submitted." 
-summary: "This paper examines the impact of delayed nursing home admissions on patient outcomes." 
+author: ["Mattia Albertini", "Pieter Bakx", "Fabrizio Mazzonna"]
+description: "This paper examines the impact labor market consequences of low-value mental health care. Submitted." 
+summary: "This paper examines the impact labor market consequences of low-value mental health care." 
 cover:
     #image: ""
-    alt: "Delayed Nursing Home Admissions"
+    alt: "Labor market consequences of low-value mental health care"
     relative: false
 #editPost:
     #URL: "https://jheor.org"
@@ -19,14 +19,13 @@ cover:
 
 ##### Download
 
-+ [SSRN link](https://ssrn.com/abstract=6293289)
++ [IZA Discussion Paper link](https://docs.iza.org/dp17771.pdf)
 
 ---
 
 ##### Abstract
 
-We study the effects of delayed nursing home admissions on urgent hospitalisations and costs in the Netherlands. We exploit plausibly exogenous variation in within-region congestion for nursing home admissions. A one-month delay increases urgent hospitalisation by 2.6 percentage points (15% of the baseline), mostly due to falls and primarily driven by individuals with dementia living alone. Cost savings in nursing home care due to delays are partly offset by increased costs in home care and hospitals. These findings suggest that timely access and improved allocation of scarce nursing home capacity can yield health benefits and reduce costs in other parts of the healthcare sector. 
-
+We investigate the health and labor market consequences of primary care variation in benzodiazepine prescriptions, a common type of low-value care. Linking Dutch general practitioners’ records to administrative data, we construct an exogenous measure of prescribing behavior that exploits institutional constraints limiting patient choice. Using the loss of a close relative as a common mental health shock and a dynamic difference-indifferences approach, we find that patients treated by high-prescribing GPs are more likelyto receive out-of-guidelines benzodiazepine prescriptions, become long-term users, and are less likely to access specialized mental health care. These patients also experience worse labor market outcomes, including increased short-term reliance on unemployment benefits and substantial long-term declines in earnings, primarily driven by reduced wages
 
 ---
 <!-- 
@@ -42,8 +41,6 @@ title ={Incentivizing Participation of Compatible Pairs in Kidney Exchange Progr
 journal = {Work in progress},
 url = {}}
 ```
-
- , Marlies and Bakx, Pieter and Rice, Nigel and Santos, Rita and Siciliani, Luigi and Wouterse, Bram, Do Delayed Nursing Home Admissions Increase Hospitalisations and Costs?. Available at SSRN: 
 
 ---
 
