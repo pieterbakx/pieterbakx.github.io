@@ -1,6 +1,5 @@
 ---
 title: "Health Shocks as Drivers of Persistent Change in Health Behaviors"
-date: 2026-02-28
 #tags: ["compatible pairs","empiric","history of oil","Mediterranean world"]
 author: ["Jannis Stöckel", "Bram Wouterse", "Pieter Bakx"]
 description: "In progress" 
